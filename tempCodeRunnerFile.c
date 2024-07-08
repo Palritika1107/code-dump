@@ -1,0 +1,1 @@
+ str[0]=toupper(str[0]);
